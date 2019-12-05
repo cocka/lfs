@@ -1,0 +1,27 @@
+bash, version 5.0.3(1)-release
+/bin/sh -> /usr/bin/bash
+Binutils: (GNU Binutils for Debian) 2.31.1
+bison (GNU Bison) 3.3.2
+/usr/bin/yacc -> /usr/bin/bison.yacc
+bzip2,  Version 1.0.6, 6-Sept-2010.
+Coreutils:  8.30
+diff (GNU diffutils) 3.7
+find (GNU findutils) 4.6.0.225-235f
+GNU Awk 4.2.1, API: 2.0 (GNU MPFR 4.0.2, GNU MP 6.1.2)
+/usr/bin/awk -> /usr/bin/gawk
+gcc (Debian 8.3.0-6) 8.3.0
+g++ (Debian 8.3.0-6) 8.3.0
+(Debian GLIBC 2.28-10) 2.28
+grep (GNU grep) 3.3
+gzip 1.9
+Linux version 4.19.0-6-amd64 (debian-kernel@lists.debian.org) (gcc version 8.3.0 (Debian 8.3.0-6)) #1 SMP Debian 4.19.67-2+deb10u2 (2019-11-11)
+m4 (GNU M4) 1.4.18
+GNU Make 4.2.1
+GNU patch 2.7.6
+Perl version='5.28.1';
+Python 3.7.3
+sed (GNU sed) 4.7
+tar (GNU tar) 1.30
+texi2any (GNU texinfo) 6.5
+xz (XZ Utils) 5.2.4
+g++ compilation OK
